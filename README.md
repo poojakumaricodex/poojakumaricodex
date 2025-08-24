@@ -1,10 +1,25 @@
 # 🌸 Hi, I’m Pooja Kumari  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pooja-kumari-894712370/)
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/pooja-kumari-894712370/" target="_blank">
+    <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" width="60" height="60"/>
+  </a>
+  
+  <!-- Portfolio -->
+  <a href="https://pooja-kumari-data-analys-lzwhofd.gamma.site/" target="_blank">
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/96/external-portfolio-resume-flaticons-lineal-color-flat-icons.png" alt="Portfolio" width="60" height="60"/>
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:poojaa7312@gmail.com">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" alt="Gmail" width="60" height="60"/>
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square&logo=google-chrome)](https://pooja-kumari-data-analys-lzwhofd.gamma.site/) 
-
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:poojaa7312@gmail.com)  
+<p align="center">
+ 🌐 LinkedIn | 💼 Portfolio | 📧 Gmail
+</p>
 
 ---
 
