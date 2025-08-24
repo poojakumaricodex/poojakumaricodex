@@ -65,5 +65,9 @@ I believe in combining **tech + creativity** 🌍
 When I’m not coding, I’m probably exploring **K-dramas, anime, skincare, or traveling** ✈️  
 
 ---
+##  Let’s Connect
+I’m open to collaborating, learning, and growing together.  
+-  LinkedIn: (https://www.linkedin.com/in/pooja-kumari-894712370/)  
+-  Email: poojaa7312@gmail.com  
 
 ✨ *“Code. Analyze. Create. Inspire.”* ✨  
