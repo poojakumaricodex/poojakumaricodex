@@ -34,8 +34,9 @@
 
 ## 📂 Projects  
 
-🔹 **[Credit Card Fraud Detection](#)** – Built ML models (Random Forest, CART) for fraud detection  
-🔹 **[Resume Builder (Flask)](#)** – Automated dynamic resume creation tool  
+🔹 **[Credit Card Fraud Detection](#)** – Built ML models (Random Forest, CART) for fraud detection 
+🔹 **[Automated Emerging Cyber Threat Identification (NLP)](#)** – Detect threats using NLP  
+🔹 **[AI Medical Diagnosis Assistant](#)** – Multilingual symptom chatbot via Streamlit 
 🔹 **[Piano Tiles Game](#)** – Fun Python game using Pygame  
 🔹 **[Stock Market Forecasting](#)** – ARIMA, Prophet, and LSTM-based predictions  
 🔹 **[Air Quality Time Series Forecasting](#)** – Predicted pollutants using RMSE validation  
